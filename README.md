@@ -1,3 +1,9 @@
+# AdapToPASS: Ambiguity-aware Adaptive Spherical Transformer for Panoramic Semantic Segmentation
+
+[![NeurIPS 2026](https://img.shields.io/badge/NeurIPS-2026-555555)](https://neurips.cc/)
+[![Spotlight](https://img.shields.io/badge/Spotlight-orange)](https://neurips.cc/)
+[![arXiv:2608.29081](https://img.shields.io/badge/arXiv-2608.29081-B31B1B)](https://arxiv.org/abs/2608.29081)
+
 ## Installation
 
 **Python 3.9+ and a CUDA-capable GPU are recommended.**
