@@ -3,6 +3,7 @@
 [![NeurIPS 2026](https://img.shields.io/badge/NeurIPS-2026-555555)](https://neurips.cc/)
 [![Spotlight](https://img.shields.io/badge/Spotlight-orange)](https://neurips.cc/)
 [![arXiv:2608.29081](https://img.shields.io/badge/arXiv-2608.29081-B31B1B)](https://arxiv.org/abs/2608.29081)
+[![Project Page](https://img.shields.io/badge/NeurIPS-2026-555555)](https://empactlab.github.io/AdapToPASS-NeurIPS-2026/)
 
 ## Installation
 
